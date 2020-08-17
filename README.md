@@ -4,7 +4,7 @@ This is the installer file for Windows. Extract the zip and run the installer.
 
 You will find the application through the start menu (search for Hearts and Stars), else it will be the directory you installed it in.
 
-## Hearts-and-Stars
+## Hearts and Stars
 
 A cute remake of the classic game, 'Tic-Tac-Toe'. This is a two player game on a 3x3 board.
 
